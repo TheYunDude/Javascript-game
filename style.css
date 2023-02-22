@@ -1,0 +1,56 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.cookie{
+  height: 50px;
+  width: 50px;
+  transition: transform .2s;
+}
+.cookie:hover{
+  transform:scale(1.5);
+}
+
+.counter{
+  display: flex;
+  height: 100px;
+  width: 100px;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  font-weight: 700;
+  font-size: 60px;
+}
+
+.count{
+  height: 120px;
+  width: 300px;
+  background-color: lightblue;
+}
+
+.cookies{
+  display: flex;
+  align-items: center;
+  height: 100px;
+  margin-left: 100px;
+  position: absolute;
+}
+
+.shop{
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 20px;
+  padding-top: 35px;
+  align-items: center;
+}
+
+.multiplier{
+  position: absolute;
+  top: 100px;
+  width: 300px;
+  display: flex;
+  justify-content: center;
+}
