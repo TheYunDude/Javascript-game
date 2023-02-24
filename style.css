@@ -27,7 +27,7 @@
 
 .count{
   height: 120px;
-  width: 300px;
+  width: 600px;
   background-color: lightblue;
 }
 
@@ -45,7 +45,7 @@
   margin-right: 20px;
   padding-top: 35px;
   align-items: center;
-  display: inline-block;
+  padding-right: 20px;
 }
 
 .multiplier{
