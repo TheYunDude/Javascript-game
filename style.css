@@ -28,7 +28,7 @@
 
 .count{
   height: 120px;
-  width: 600px;
+  width: 1000px;
   background-color: lightblue;
 }
 
@@ -36,7 +36,7 @@
   display: flex;
   align-items: center;
   height: 100px;
-  margin-left: 200px;
+  margin-left: 250px;
   position: absolute;
 }
 
